@@ -28,4 +28,4 @@ $$
 
 ## Reference
 
-- https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence
+- [Kullback–Leibler divergence. (2022, October 30). In Wikipedia.](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence)
