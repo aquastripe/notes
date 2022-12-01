@@ -43,11 +43,24 @@ markdown_extensions:
   - pymdownx.tilde
   - tables
 
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
 plugins:
   - tags:
       tags_file: tags.md
 
 repo_url: https://github.com/aquastripe/notes
 repo_name: aquastripe/notes
+
+nav:
+  - "Math":
+    # - math/
+    - "Probability and Statistics":
+      # - math/probability_statistics
+      - "KL Divergence": math/probability_statistics/kl_divergence.md
+  - Tags: "tags.md"
 
 copyright: Copyright &copy 2022 Hao-Ting Li. Content on this site is licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.
