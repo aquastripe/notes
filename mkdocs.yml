@@ -63,6 +63,7 @@ nav:
       - "KL Divergence": math/probability_statistics/kl_divergence.md
   - "Deep Learning":
     - "Generative Models":
+      - "Introduction": deep-learning/generative-models/introduction.md
       - "Variational Inference": deep-learning/generative-models/variational-inference.md
   - Tags: "tags.md"
 
