@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Introduction
 
 生成問題是：給定一個資料集 $\mathcal{D}$ 如何透過學習使得模型的分布 $p_{\theta}$ 近似於資料集的分布 $p_{\mathrm{data}}$？可以以最佳化問題來描述如下：

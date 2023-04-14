@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # KL Divergence
 
 KL divergence (又稱為 relative entropy，相對熵) 是一種統計距離，可以用來測量兩個機率分布的距離。機率分布 $P$ 與 $Q$ 的 KL divergence 以 $D_{\mathrm{KL}}(P \| Q)$ 來表示，讀作 KL divergence of P from Q。
