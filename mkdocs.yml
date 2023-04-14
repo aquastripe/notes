@@ -62,10 +62,8 @@ repo_name: aquastripe/notes
 
 nav:
   - "Math":
-    # - math/
-    - "Probability and Statistics":
-      # - math/probability_statistics
-      - "KL Divergence": math/probability_statistics/kl_divergence.md
+    - "Probability Theory":
+      - "KL Divergence": math/probability/kl_divergence.md
   - "Deep Learning":
     - "Generative Models":
       - "Introduction": deep-learning/generative-models/introduction.md
