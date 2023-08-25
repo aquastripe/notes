@@ -1,4 +1,4 @@
-site_name: AQUASTRIPE
+site_name: 依智而動者與人相衝，依情而行者隨波逐流。
 
 theme:
   name: material
@@ -56,6 +56,7 @@ extra_javascript:
 plugins:
   - tags:
       tags_file: tags.md
+  - glightbox
 
 repo_url: https://github.com/aquastripe/notes
 repo_name: aquastripe/notes
