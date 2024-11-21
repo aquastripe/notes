@@ -1,4 +1,4 @@
-site_name: 依智而動者與人相衝，依情而行者隨波逐流。
+site_name: 為美好的世界獻上論文
 
 theme:
   name: material
@@ -72,4 +72,4 @@ nav:
   # - "Paper":
   - Tags: "tags.md"
 
-copyright: Copyright &copy 2023 Hao-Ting Li. Content on this site is licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.
+copyright: Copyright &copy 2023-2024 Hao-Ting Li. Content on this site is licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.
